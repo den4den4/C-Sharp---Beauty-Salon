@@ -1,0 +1,87 @@
+[0710/162410.271:INFO:CONSOLE(3803)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/7449ebf7/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js (3803)
+[0710/162410.559:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0710/162415.634:INFO:CONSOLE(0)] "The resource https://r2---sn-pujob-ua8e.googlevideo.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=3S4tRSvw3so (0)
+[0710/162415.636:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=3S4tRSvw3so (0)
+[0710/162415.636:INFO:CONSOLE(0)] "The resource https://r2---sn-pujob-ua8e.googlevideo.com/generate_204?conn2 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=3S4tRSvw3so (0)
+[0710/162606.205:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'interest-cohort'.", source:  (0)
+[0710/162606.753:INFO:CONSOLE(290)] "JQMIGRATE: Migrate is installed with logging active, version 3.3.2", source: https://en.wikipedia.org/w/load.php?lang=en&modules=ext.centralNotice.choiceData%2Cdisplay%2CgeoIP%2CimpressionDiet%2CkvStore%2CstartUp%7Cext.centralauth.centralautologin%7Cext.cx.eventlogging.campaigns%7Cext.eventLogging%2CnavigationTiming%2Cpopups%2CwikimediaEvents%7Cext.growthExperiments.SuggestedEditSession%7Cext.uls.common%2Ccompactlinks%2Cinterface%2Cpreferences%2Cwebfonts%7Cjquery%2Coojs%2Coojs-router%2Csite%7Cjquery.client%2Ccookie%2CtextSelection%7Cjquery.uls.data%7Cmediawiki.String%2CTitle%2CUri%2Capi%2Cbase%2Ccldr%2Ccookie%2Cexperiments%2CjqueryMsg%2Clanguage%2Cstorage%2Cuser%2Cutil%2CvisibleTimeout%7Cmediawiki.editfont.styles%7Cmediawiki.libs.pluralruleparser%7Cmediawiki.page.ready%7Cmediawiki.ui.button%2Cicon%7Cmmv.bootstrap%2Chead%7Cmmv.bootstrap.autostart%7Cskins.vector.legacy.js%7Cuser.defaults&skin=vector&version=1gagu (290)
+[0710/162704.244:INFO:CONSOLE(9307)] "[object Object]", source: https://milog.co.il/quiz1.js (9307)
+[0710/162704.245:INFO:CONSOLE(9101)] "CWM", source: https://milog.co.il/quiz1.js (9101)
+[0710/162704.473:INFO:CONSOLE(9021)] "error: ", source: https://milog.co.il/quiz1.js (9021)
+[0710/162706.343:INFO:CONSOLE(6)] "Powered by AMP ⚡ HTML – Version 2106212012000 https://milog.co.il/%D7%94%D7%92%D7%99%D7%97/e_54865/%D7%93%D7%A7%D7%93%D7%95%D7%A7", source: https://cdn.ampproject.org/rtv/012106212012000/amp4ads-v0.mjs (6)
+[0710/162706.484:INFO:CONSOLE(6)] "Powered by AMP ⚡ HTML – Version 2106212012000 https://milog.co.il/%D7%94%D7%92%D7%99%D7%97/e_54865/%D7%93%D7%A7%D7%93%D7%95%D7%A7", source: https://cdn.ampproject.org/rtv/012106212012000/amp4ads-v0.mjs (6)
+[0710/162710.240:INFO:CONSOLE(69)] "[object Object]", source: https://milog.co.il/interface_utils.js?v=3 (69)
+[0710/162710.297:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 3
+[0710/162710.302:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 15
+[0710/162710.303:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 17
+[0710/162710.304:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 5
+[0710/170051.532:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0710/170125.627:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 3
+[0710/170125.631:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 5
+[0710/170125.643:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 1
+[0710/170125.643:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 3
+[0710/170125.643:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 5
+[0710/170125.643:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 7
+[0710/170125.675:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 1
+[0710/170125.694:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 7
+[0710/170125.694:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 9
+[0710/170125.694:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 11
+[0710/170125.694:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 13
+[0710/170125.701:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 15
+[0710/170125.778:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 17
+[0710/170125.779:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 19
+[0710/170125.974:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 1
+[0710/170126.199:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2 (2)
+[0710/170126.221:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://home.com/' was loaded over HTTPS, but requested an insecure element 'http://i3.ytimg.com/vi/m6mQv9TtbHc/maxresdefault.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://home.com/ (0)
+[0710/170126.224:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://home.com/' was loaded over HTTPS, but requested an insecure element 'http://i3.ytimg.com/vi/OXbyDen2n8M/maxresdefault.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://home.com/ (0)
+[0710/170126.225:INFO:CONSOLE(0)] "Mixed Content: The page at 'https://home.com/' was loaded over HTTPS, but requested an insecure element 'http://i3.ytimg.com/vi/D9UokK7cX9g/maxresdefault.jpg'. This request was automatically upgraded to HTTPS, For more information see https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html", source: https://home.com/ (0)
+[0710/170126.863:INFO:CONSOLE(2)] "jQuery.Deferred exception: Cannot read property 'toUpperCase' of undefined TypeError: Cannot read property 'toUpperCase' of undefined
+    at https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:53669
+    at Xe (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:53745)
+    at Function.css (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:55999)
+    at https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:57415
+    at $ (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:32538)
+    at s.fn.init.css (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:57252)
+    at s.fn.init.s.fn.css (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2:2:6181)
+    at HTMLDocument.<anonymous> (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-content/themes/fairway/js/core.js?ver=1.5:1:3217)
+    at e (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:30005)
+    at t (https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1:2:30307) undefined", source: https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1 (2)
+[0710/170126.936:INFO:CONSOLE(2)] "Uncaught TypeError: Cannot read property 'toUpperCase' of undefined", source: https://2eqkdq3qzdkg3f4cjcd522t1-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1 (2)
+[0710/170127.856:INFO:CONSOLE(24)] "[Facebook Pixel] - You are sending a non-standard event 'ContentView'. The preferred way to send these events is using trackCustom. See 'https://developers.facebook.com/docs/ads-for-websites/pixel-events/#events' for more information.", source: https://connect.facebook.net/en_US/fbevents.js (24)
+[0710/170132.870:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 305 ms", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0710/170205.483:INFO:CONSOLE(0)] "Refused to display 'https://accounts.google.com/' in a frame because it set 'X-Frame-Options' to 'deny'.", source: chrome-error://chromewebdata/ (0)
+[0710/170205.862:INFO:CONSOLE(3803)] "LegacyDataMixin will be applied to all legacy elements.
+Set `_legacyUndefinedCheck: true` on element class to enable.", source: https://www.youtube.com/s/desktop/7449ebf7/jsbin/desktop_polymer_disambiguate_properties.vflset/desktop_polymer_disambiguate_properties.js (3803)
+[0710/170210.397:INFO:CONSOLE(0)] "The resource https://i.ytimg.com/generate_204 was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally.", source: https://www.youtube.com/watch?v=RydO8iGhwEY (0)
+[0710/170251.282:INFO:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: https://ogs.google.com/widget/app/so?bc=1&origin=https%3A%2F%2Fwww.google.com&cn=app&pid=1&spid=1&hl=iw (0)
+[0710/171132.337:INFO:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: https://ogs.google.com/widget/app/so?bc=1&origin=https%3A%2F%2Fwww.google.com&cn=app&pid=1&spid=538&hl=iw (0)
+[0710/171139.211:INFO:CONSOLE(0)] "The page delivered both an 'X-Frame-Options' header and a 'Content-Security-Policy' header with a 'frame-ancestors' directive. Although the 'X-Frame-Options' header alone would have blocked embedding, it has been ignored.", source: https://ogs.google.com/widget/app/so?bc=1&origin=https%3A%2F%2Fwww.google.com&cn=app&pid=1&spid=1&hl=iw (0)
+[0710/171559.592:INFO:CONSOLE(0)] "
+%cעצור/עצרי! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source:  (0)
+[0710/171559.593:INFO:CONSOLE(0)] "
+%cזוהי תכונה בדפדפן שמיועדת למפתחים. אם מישהו אמר לך להעתיק ולהדביק משהו כאן כדי להפעיל תכונה של פייסבוק או כדי "לפרוץ" לחשבון של מישהו, מדובר בהונאה והיא תתן להם גישה לחשבון פייסבוק שלך. font-family:helvetica; font-size:20px; ", source:  (0)
+[0710/171559.593:INFO:CONSOLE(0)] "
+%cראה/ראי https://www.facebook.com/selfxss למידע נוסף. font-family:helvetica; font-size:20px; ", source:  (0)
+[0710/171559.593:INFO:CONSOLE(0)] "
+%c ", source:  (0)
+[0710/171752.880:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0710/171926.779:INFO:CONSOLE(0)] "
+%cעצור/עצרי! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source:  (0)
+[0710/171926.780:INFO:CONSOLE(0)] "
+%cזוהי תכונה בדפדפן שמיועדת למפתחים. אם מישהו אמר לך להעתיק ולהדביק משהו כאן כדי להפעיל תכונה של פייסבוק או כדי "לפרוץ" לחשבון של מישהו, מדובר בהונאה והיא תתן להם גישה לחשבון פייסבוק שלך. font-family:helvetica; font-size:20px; ", source:  (0)
+[0710/171926.780:INFO:CONSOLE(0)] "
+%cראה/ראי https://www.facebook.com/selfxss למידע נוסף. font-family:helvetica; font-size:20px; ", source:  (0)
+[0710/171926.780:INFO:CONSOLE(0)] "
+%c ", source:  (0)
+[0710/172310.907:WARNING:spdy_session.cc(3473)] Received WINDOW_UPDATE for invalid stream 3
+[0710/172310.907:WARNING:spdy_session.cc(3473)] Received WINDOW_UPDATE for invalid stream 5
+[0710/172317.720:INFO:CONSOLE(0)] "
+%cעצור/עצרי! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source:  (0)
+[0710/172317.721:INFO:CONSOLE(0)] "
+%cזוהי תכונה בדפדפן שמיועדת למפתחים. אם מישהו אמר לך להעתיק ולהדביק משהו כאן כדי להפעיל תכונה של פייסבוק או כדי "לפרוץ" לחשבון של מישהו, מדובר בהונאה והיא תתן להם גישה לחשבון פייסבוק שלך. font-family:helvetica; font-size:20px; ", source:  (0)
+[0710/172317.721:INFO:CONSOLE(0)] "
+%cראה/ראי https://www.facebook.com/selfxss למידע נוסף. font-family:helvetica; font-size:20px; ", source:  (0)
+[0710/172317.721:INFO:CONSOLE(0)] "
+%c ", source:  (0)
+[0710/172427.616:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)

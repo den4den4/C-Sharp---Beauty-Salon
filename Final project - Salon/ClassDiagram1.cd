@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Final_project___Salon.Basket" Collapsed="true">
+    <Position X="5.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAEAAAAhAAAAAIAAAACAEAAAABkAAAABACAAAIAAAAA=</HashCode>
+      <FileName>Basket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.BossDisplayForm" Collapsed="true">
+    <Position X="3" Y="1.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>CQgMBRApCSBiAQQCGACYgIwnIICAAAHUXMoAAAATIFQ=</HashCode>
+      <FileName>BossDisplayForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Check" Collapsed="true">
+    <Position X="9" Y="4.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAIAAAACAAAAAAAAAAAAAAAAAAAIABAACAAQAQ=</HashCode>
+      <FileName>Check.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.clock" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAJCAQAAAAAACAAASCAIAAAABEAAAAAAAAAAA=</HashCode>
+      <FileName>clock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.CompanyInfo" Collapsed="true">
+    <Position X="3.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAgIAAEICAgEAEAIBABAAACCQAAAgkAAAA=</HashCode>
+      <FileName>CompanyInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Customer" Collapsed="true">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Customer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.CustomerForm" Collapsed="true">
+    <Position X="3.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>MIICggIEADAQABBACACAIAACAmEEAAQCAAASKcgrFBE=</HashCode>
+      <FileName>CustomerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.CustomFont" Collapsed="true">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAIAAAAAAIAAAA=</HashCode>
+      <FileName>CustomFont.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.DBConnection" Collapsed="true">
+    <Position X="9.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAIAAAAAABAIAIAAAAAAACQQAAAgCBAAA=</HashCode>
+      <FileName>DBConnection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.DBSql" Collapsed="true">
+    <Position X="7.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kAAIIAjAJ0YAowAIDQQQIIABBThQABEKVAAFEBCUJkA=</HashCode>
+      <FileName>DBSql.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Employee" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAgAAAABAAAAAQAAAAAAAAAAAAAQAAAAEA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.EmployeeWorkerForm" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>MIIAgAIEACAUQRgCDACoIIACAgBAUCAIAIBSCYlqFBA=</HashCode>
+      <FileName>EmployeeWorkerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Format" Collapsed="true">
+    <Position X="7.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAACAAAAAAAAAABAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Format.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.GeneralInputValidation" Collapsed="true">
+    <Position X="2" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAAAIACBAAAAAAABAAAAAAAAAAAAQQAEAAAABAA=</HashCode>
+      <FileName>GeneralInputValidation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.HomeForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>MBCALxAVAiAQUFAEAACMwIAbgIIgAEACGzADAZBHkAg=</HashCode>
+      <FileName>HomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.MessageBoxManagerForm" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAACAAAAAAAACAAQAGAAEEACAAAAAABABCAAA=</HashCode>
+      <FileName>MessageBoxManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.PayingForm" Collapsed="true">
+    <Position X="0.75" Y="3.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>GBjAABmSECAIiBEAAQCQAEACEAAAAAAAgMEACABCQSA=</HashCode>
+      <FileName>PayingForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Person" Collapsed="true">
+    <Position X="1.25" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAgAEAAAAAAAYAIAAEACAAAAAAAAgAgAAJAIQACYAE=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.RegistrationForm" Collapsed="true">
+    <Position X="4" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>BAABAAgAgGAAAABAAACAAIgCAQIAAAAECAAAAAADAAQ=</HashCode>
+      <FileName>RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Report" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEABCAUBAKABAIAQEQAAAYAAAAGABACAAAQCA=</HashCode>
+      <FileName>Report.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.ReportForm" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>FjiiQQAUjSAS2DApMwGpKgAGAFF4BDECIAghAILL0Fg=</HashCode>
+      <FileName>ReportForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Scueduling" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AjwABiDRADA4KDJAyBiAABQqxIAAQAQBAgDAJQIaGwA=</HashCode>
+      <FileName>Scueduling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.secretaryDisplayForm" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>CAgIBBAJCSBiARQCEACQgIUiIICAAAHUXMoAAAASIBQ=</HashCode>
+      <FileName>secretatyDisplayFormcs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Service" Collapsed="true">
+    <Position X="4" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>oAAHAAAAAQAAAAAAgAEAAIQAAAQAAAAAAAAAAAABgAQ=</HashCode>
+      <FileName>Service.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.ServiceManagerForm" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>YQCAQQQgAKAAgIYYAGOAARCzQAIACAABBCAAGAASQAA=</HashCode>
+      <FileName>ServiceManagerForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.SettingsForm" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>ckQCKwgwJCSYGBUCgdGKxIE6BIJEExwoAiOAEAIiniA=</HashCode>
+      <FileName>SettingsForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.TaxesAndSales" Collapsed="true">
+    <Position X="3.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAACAQAAAAAAAAAAAAQAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>TaxesAndSales.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Timetable" Collapsed="true">
+    <Position X="5.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAMAAEACAIBBAAyAAQAMwAAAgMBAAAABRAQAiQ=</HashCode>
+      <FileName>Timetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.TimetableInputForm" Collapsed="true">
+    <Position X="4.75" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ATIEAgARKeEAABigAsKIpgACAoF4kCgIQAEMBcQCAZA=</HashCode>
+      <FileName>TimetableInputForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.WarningMessages" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABACAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WarningMessages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Final_project___Salon.Properties.Settings" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

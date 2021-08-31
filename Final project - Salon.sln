@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Final project - Salon", "Final project - Salon\Final project - Salon.csproj", "{94685367-64E5-423D-BDFD-D791CFF8325F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Debug|x64.ActiveCfg = Debug|x64
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Debug|x64.Build.0 = Debug|x64
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Release|x64.ActiveCfg = Release|x64
+		{94685367-64E5-423D-BDFD-D791CFF8325F}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEB09FD3-DBAB-483F-BE92-741493B32055}
+	EndGlobalSection
+EndGlobal

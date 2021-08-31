@@ -1,0 +1,726 @@
+[0710/155739.842:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155739.843:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 1 time(s)
+[0710/155740.435:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155742.022:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155742.022:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 2 time(s)
+[0710/155742.444:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155743.926:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155743.927:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 3 time(s)
+[0710/155744.342:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155746.111:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155746.111:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 4 time(s)
+[0710/155746.268:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155748.077:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155748.078:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 5 time(s)
+[0710/155748.216:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155836.889:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155836.890:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 1 time(s)
+[0710/155837.065:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155839.224:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155839.224:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 2 time(s)
+[0710/155839.909:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155841.650:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155841.651:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 3 time(s)
+[0710/155842.995:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155844.302:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155844.302:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 4 time(s)
+[0710/155846.535:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155848.055:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155848.055:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 5 time(s)
+[0710/155849.098:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155851.441:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/155851.441:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 6 time(s)
+[0710/155851.443:ERROR:browser_gpu_channel_host_factory.cc(160)] Failed to launch GPU process.
+[0710/155851.697:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155854.067:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155856.579:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155858.713:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155901.310:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155903.540:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155906.152:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155908.606:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155911.134:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155913.627:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155915.604:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155917.731:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155920.158:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/155922.243:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/160003.144:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/160003.144:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 1 time(s)
+[0710/160003.793:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/160005.736:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/160005.736:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 2 time(s)
+[0710/160007.952:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/160647.652:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/160647.652:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 1 time(s)
+[0710/160647.685:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/160649.699:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0710/160649.706:ERROR:gpu_process_host.cc(1002)] GPU process exited unexpectedly: exit_code=-532462766
+[0710/160649.706:WARNING:gpu_process_host.cc(1316)] The GPU process has crashed 2 time(s)
+[0710/160651.676:ERROR:network_service_instance_impl.cc(331)] Network service crashed, restarting service.
+[0711/204252.888:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0711/204358.464:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 2194.699999988079 ms", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0711/212941.109:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/191824.541:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/191858.584:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/191931.700:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/191958.799:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192030.211:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192056.846:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192235.149:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192420.973:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192500.429:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192546.432:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192629.967:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/192950.256:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/193019.417:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/193041.666:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/193243.226:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/193438.301:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/195444.361:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/195731.495:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/195830.346:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/195853.861:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/195954.053:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/200056.808:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/200220.439:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/200316.368:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/200420.983:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 775.7000000029802 ms", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0715/200422.827:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Unable to add event listener to element for event keydown", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0715/200422.829:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Unable to add event listener to element for event keyup", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0715/200515.298:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0715/200721.273:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/200824.399:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/201003.758:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/201202.256:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0715/201341.088:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/202533.573:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/202559.178:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/203259.901:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/203350.849:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/203512.594:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/203939.184:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/204058.233:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/205336.614:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/205441.532:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 380.5 ms", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0715/205443.365:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Unable to add event listener to element for event keydown", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0715/205443.366:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Unable to add event listener to element for event keyup", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0715/211542.080:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/211707.221:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/211709.217:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 5
+[0715/211730.951:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/211834.936:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/212251.893:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/212357.759:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/212917.691:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/212957.872:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0715/213142.303:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/102446.843:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/102850.288:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/103410.105:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/103509.279:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/103542.671:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/103735.933:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/103845.602:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/103949.699:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 447.90000000596046 ms", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0716/104044.765:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0716/105826.164:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0716/105930.237:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 337.69999998807907 ms", source: https://js.driftt.com/core/assets/js/16.95721841.chunk.js (1)
+[0716/110025.297:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0716/111731.922:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/204517.320:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/204621.080:INFO:CONSOLE(81)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://www.google.com/logos/2020/kitsune/rc6/kitsune20.js (81)
+[0725/204621.086:INFO:CONSOLE(82)] "The AudioContext was not allowed to start. It must be resumed (or created) after a user gesture on the page. https://goo.gl/7K7WLu", source: https://www.google.com/logos/2020/kitsune/rc6/kitsune20.js (82)
+[0725/210348.729:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/210505.192:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/210618.834:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/225635.082:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/225929.125:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/230138.899:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/233611.431:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/233715.728:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 389.2000000476837 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0725/233932.287:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0725/234207.589:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/003056.421:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/004013.419:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/004117.932:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 359.5 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/004212.067:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/010446.702:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/012305.175:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/012425.140:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/012528.176:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/012612.202:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/012629.479:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/012803.166:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/012919.059:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013025.702:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013109.386:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013132.958:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013200.482:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013248.397:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013412.900:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013517.234:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 584.2000000476837 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/013657.553:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/013802.292:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 395.6999999284744 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/021038.293:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/021455.083:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/021639.985:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/021652.536:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/021735.668:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/021913.924:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/022048.517:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/022240.988:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/022318.956:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/022423.662:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 356.90000009536743 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/022517.813:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/023102.806:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/112201.373:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/120142.136:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/120431.438:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/120535.176:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 404.90000000037253 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/120925.258:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/121544.218:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/121602.276:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/121802.582:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/125237.162:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/125313.633:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/131218.552:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/131307.460:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/131652.629:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/131726.904:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/132042.646:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/132138.692:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/132407.363:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/132446.096:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/132704.293:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/132912.181:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/133040.583:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/133129.639:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/133153.400:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/133453.374:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/133633.973:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/133740.612:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 362.30000000074506 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/133925.050:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/133940.059:INFO:child_thread_impl.cc(864)] ChildThreadImpl::EnsureConnected()
+[0726/134428.597:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/134517.441:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/134556.997:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/134722.559:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/134903.173:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/135008.909:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/135030.921:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/135747.690:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/140010.187:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/140318.521:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/140422.147:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/141946.546:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/142639.189:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/142712.656:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/142744.553:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/143033.249:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/143143.274:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/143737.110:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/143843.717:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 352.90000000037253 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/150532.044:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/151010.690:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/151805.675:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/151844.244:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/151928.276:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/152133.337:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/152157.567:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/152238.732:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/152328.599:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/152433.725:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/152544.620:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/152719.453:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153002.612:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153114.638:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153255.687:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153441.197:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153557.376:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153628.256:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153703.684:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153843.304:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/153946.994:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 352.09999999962747 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/154041.832:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/160525.968:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/160555.942:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/160901.039:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/161532.065:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/161600.973:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/161705.437:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 668.3000000007451 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/161759.733:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/175323.490:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/175543.789:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/175808.889:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/175912.813:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0726/180014.568:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/180459.456:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/180609.106:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/180725.455:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/181137.854:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/181910.312:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/182000.292:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/182035.119:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/182950.680:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/183027.235:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/183131.006:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 394.30000000074506 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/183226.076:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/183846.032:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/183950.350:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 379.19999999925494 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/184033.662:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/184138.005:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 374.9000000022352 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/184232.372:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/185457.081:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/185539.557:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/185643.276:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 346.1000000014901 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/185729.692:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/185834.044:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 332.19999999925494 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/185928.480:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/190757.966:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/190902.341:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 357.30000000074506 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+<<<<<<< HEAD
+[0726/194425.831:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/194531.966:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 1672.300000000745 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/194623.646:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0726/200043.720:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/200148.180:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 393.80000000074506 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/200241.006:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0727/115159.451:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/115316.325:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/165252.489:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/165431.063:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/165642.763:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/165936.601:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/170522.660:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/170645.294:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/171558.774:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/171734.960:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/171948.061:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/172218.671:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/172322.344:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 371.40000000596046 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0727/172323.209:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 3
+[0727/172526.999:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/172704.046:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/174526.754:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/174642.030:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 4217.9000000059605 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0727/175637.626:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/175702.702:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/190949.329:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/191127.782:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/191232.687:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/191836.096:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/191939.770:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 415.80000001192093 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0727/192035.210:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0727/192547.586:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/192713.464:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/192818.063:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 365.20000000298023 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0727/193100.573:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/193257.893:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/202956.688:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/203043.528:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/203320.142:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0727/203403.237:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/203506.694:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 365.3999999910593 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0727/203752.509:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0727/204129.584:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/204250.215:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/204631.797:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/204759.707:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/204959.370:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0727/205016.323:INFO:child_thread_impl.cc(864)] ChildThreadImpl::EnsureConnected()
+[0727/205040.515:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 1443 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+=======
+[0726/193406.128:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0726/193511.670:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 481.5 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0726/193605.437:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0727/193611.574:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/193914.100:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/202555.642:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/202641.108:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/204442.884:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/204607.039:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/205112.091:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/205131.673:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0727/205653.708:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+>>>>>>> 676a4bdeaef303d354c22160e0abebc1f999e52e
+<<<<<<< HEAD
+[0728/161304.684:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0728/161350.214:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0728/161455.349:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 392.59999990463257 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0728/161550.774:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0728/162049.859:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0728/162155.443:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 465.7999999523163 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0728/162249.238:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0730/161807.240:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/161914.473:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 318.39999997615814 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162007.250:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0730/162307.966:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://presence.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162308.981:INFO:CONSOLE(1)] "WebSocket connection to 'wss://presence.api.drift.com/ws/websocket?session_token=SFMyNTY.g3QAAAACZAAEZGF0YXQAAAAFZAACaWRtAAAAGzEwNjMyMjAtMTE4OTYyMzAzMzAyNTMzMTItNGQABm9yZ19pZG0AAAAHMTA2MzIyMGQACXNjb3BlX3NldG0AAAAEbGVhZGQAB3VzZXJfaWRtAAAAETExODk2MjMwMzMwMjUzMzEyZAAJdXNlcl90eXBlZAAEbGVhZGQABnNpZ25lZG4GACeikfd6AQ.ZFa7OH-kenzA0umVULkpTS-UYGJUrho3cbeGSJJRbZc&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162308.982:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://presence.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162308.983:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://presence.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162309.946:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://1063220-20.chat.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162310.970:INFO:CONSOLE(1)] "WebSocket connection to 'wss://1063220-20.chat.api.drift.com/ws/websocket?session_token=SFMyNTY.g2gDdAAAAAVkAAJpZG0AAAAbMTA2MzIyMC0xMTg5NjIzMDMzMDI1MzMxMi00ZAAGb3JnX2lkbQAAAAcxMDYzMjIwZAAJc2NvcGVfc2V0bQAAAARsZWFkZAAHdXNlcl9pZG0AAAARMTE4OTYyMzAzMzAyNTMzMTJkAAl1c2VyX3R5cGVkAARsZWFkbgYAI6KR93oBYgABUYA.luQB7PuIfwFV-6giboh1mKr332S4exM9Z_8_7iP8C8c&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162310.971:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://1063220-20.chat.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162310.971:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://1063220-20.chat.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162310.995:INFO:CONSOLE(1)] "WebSocket connection to 'wss://presence.api.drift.com/ws/websocket?session_token=SFMyNTY.g3QAAAACZAAEZGF0YXQAAAAFZAACaWRtAAAAGzEwNjMyMjAtMTE4OTYyMzAzMzAyNTMzMTItNGQABm9yZ19pZG0AAAAHMTA2MzIyMGQACXNjb3BlX3NldG0AAAAEbGVhZGQAB3VzZXJfaWRtAAAAETExODk2MjMwMzMwMjUzMzEyZAAJdXNlcl90eXBlZAAEbGVhZGQABnNpZ25lZG4GACeikfd6AQ.ZFa7OH-kenzA0umVULkpTS-UYGJUrho3cbeGSJJRbZc&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162310.995:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://presence.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162310.995:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://presence.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162316.007:INFO:CONSOLE(1)] "WebSocket connection to 'wss://presence.api.drift.com/ws/websocket?session_token=SFMyNTY.g3QAAAACZAAEZGF0YXQAAAAFZAACaWRtAAAAGzEwNjMyMjAtMTE4OTYyMzAzMzAyNTMzMTItNGQABm9yZ19pZG0AAAAHMTA2MzIyMGQACXNjb3BlX3NldG0AAAAEbGVhZGQAB3VzZXJfaWRtAAAAETExODk2MjMwMzMwMjUzMzEyZAAJdXNlcl90eXBlZAAEbGVhZGQABnNpZ25lZG4GACeikfd6AQ.ZFa7OH-kenzA0umVULkpTS-UYGJUrho3cbeGSJJRbZc&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162316.008:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://presence.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162316.009:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://presence.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162318.978:INFO:CONSOLE(1)] "WebSocket connection to 'wss://1063220-20.chat.api.drift.com/ws/websocket?session_token=SFMyNTY.g2gDdAAAAAVkAAJpZG0AAAAbMTA2MzIyMC0xMTg5NjIzMDMzMDI1MzMxMi00ZAAGb3JnX2lkbQAAAAcxMDYzMjIwZAAJc2NvcGVfc2V0bQAAAARsZWFkZAAHdXNlcl9pZG0AAAARMTE4OTYyMzAzMzAyNTMzMTJkAAl1c2VyX3R5cGVkAARsZWFkbgYAI6KR93oBYgABUYA.luQB7PuIfwFV-6giboh1mKr332S4exM9Z_8_7iP8C8c&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_NAME_NOT_RESOLVED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162318.978:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://1063220-20.chat.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162318.979:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://1063220-20.chat.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162319.504:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162319.506:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162323.985:INFO:CONSOLE(1)] "WebSocket connection to 'wss://1063220-20.chat.api.drift.com/ws/websocket?session_token=SFMyNTY.g2gDdAAAAAVkAAJpZG0AAAAbMTA2MzIyMC0xMTg5NjIzMDMzMDI1MzMxMi00ZAAGb3JnX2lkbQAAAAcxMDYzMjIwZAAJc2NvcGVfc2V0bQAAAARsZWFkZAAHdXNlcl9pZG0AAAARMTE4OTYyMzAzMzAyNTMzMTJkAAl1c2VyX3R5cGVkAARsZWFkbgYAI6KR93oBYgABUYA.luQB7PuIfwFV-6giboh1mKr332S4exM9Z_8_7iP8C8c&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162323.985:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://1063220-20.chat.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162323.986:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://1063220-20.chat.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162324.517:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162324.518:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162326.028:INFO:CONSOLE(1)] "WebSocket connection to 'wss://presence.api.drift.com/ws/websocket?session_token=SFMyNTY.g3QAAAACZAAEZGF0YXQAAAAFZAACaWRtAAAAGzEwNjMyMjAtMTE4OTYyMzAzMzAyNTMzMTItNGQABm9yZ19pZG0AAAAHMTA2MzIyMGQACXNjb3BlX3NldG0AAAAEbGVhZGQAB3VzZXJfaWRtAAAAETExODk2MjMwMzMwMjUzMzEyZAAJdXNlcl90eXBlZAAEbGVhZGQABnNpZ25lZG4GACeikfd6AQ.ZFa7OH-kenzA0umVULkpTS-UYGJUrho3cbeGSJJRbZc&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162326.029:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://presence.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162326.029:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://presence.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162329.530:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162329.530:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162334.003:INFO:CONSOLE(1)] "WebSocket connection to 'wss://1063220-20.chat.api.drift.com/ws/websocket?session_token=SFMyNTY.g2gDdAAAAAVkAAJpZG0AAAAbMTA2MzIyMC0xMTg5NjIzMDMzMDI1MzMxMi00ZAAGb3JnX2lkbQAAAAcxMDYzMjIwZAAJc2NvcGVfc2V0bQAAAARsZWFkZAAHdXNlcl9pZG0AAAARMTE4OTYyMzAzMzAyNTMzMTJkAAl1c2VyX3R5cGVkAARsZWFkbgYAI6KR93oBYgABUYA.luQB7PuIfwFV-6giboh1mKr332S4exM9Z_8_7iP8C8c&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162334.004:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://1063220-20.chat.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162334.005:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://1063220-20.chat.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162334.549:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162334.549:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162336.046:INFO:CONSOLE(1)] "WebSocket connection to 'wss://presence.api.drift.com/ws/websocket?session_token=SFMyNTY.g3QAAAACZAAEZGF0YXQAAAAFZAACaWRtAAAAGzEwNjMyMjAtMTE4OTYyMzAzMzAyNTMzMTItNGQABm9yZ19pZG0AAAAHMTA2MzIyMGQACXNjb3BlX3NldG0AAAAEbGVhZGQAB3VzZXJfaWRtAAAAETExODk2MjMwMzMwMjUzMzEyZAAJdXNlcl90eXBlZAAEbGVhZGQABnNpZ25lZG4GACeikfd6AQ.ZFa7OH-kenzA0umVULkpTS-UYGJUrho3cbeGSJJRbZc&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162336.046:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://presence.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162336.046:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://presence.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162339.566:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162339.567:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162344.038:INFO:CONSOLE(1)] "WebSocket connection to 'wss://1063220-20.chat.api.drift.com/ws/websocket?session_token=SFMyNTY.g2gDdAAAAAVkAAJpZG0AAAAbMTA2MzIyMC0xMTg5NjIzMDMzMDI1MzMxMi00ZAAGb3JnX2lkbQAAAAcxMDYzMjIwZAAJc2NvcGVfc2V0bQAAAARsZWFkZAAHdXNlcl9pZG0AAAARMTE4OTYyMzAzMzAyNTMzMTJkAAl1c2VyX3R5cGVkAARsZWFkbgYAI6KR93oBYgABUYA.luQB7PuIfwFV-6giboh1mKr332S4exM9Z_8_7iP8C8c&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162344.040:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://1063220-20.chat.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162344.040:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://1063220-20.chat.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162344.588:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162344.588:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162346.124:INFO:CONSOLE(1)] "WebSocket connection to 'wss://presence.api.drift.com/ws/websocket?session_token=SFMyNTY.g3QAAAACZAAEZGF0YXQAAAAFZAACaWRtAAAAGzEwNjMyMjAtMTE4OTYyMzAzMzAyNTMzMTItNGQABm9yZ19pZG0AAAAHMTA2MzIyMGQACXNjb3BlX3NldG0AAAAEbGVhZGQAB3VzZXJfaWRtAAAAETExODk2MjMwMzMwMjUzMzEyZAAJdXNlcl90eXBlZAAEbGVhZGQABnNpZ25lZG4GACeikfd6AQ.ZFa7OH-kenzA0umVULkpTS-UYGJUrho3cbeGSJJRbZc&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162346.124:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://presence.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162346.124:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://presence.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162349.596:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162349.596:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162354.093:INFO:CONSOLE(1)] "WebSocket connection to 'wss://1063220-20.chat.api.drift.com/ws/websocket?session_token=SFMyNTY.g2gDdAAAAAVkAAJpZG0AAAAbMTA2MzIyMC0xMTg5NjIzMDMzMDI1MzMxMi00ZAAGb3JnX2lkbQAAAAcxMDYzMjIwZAAJc2NvcGVfc2V0bQAAAARsZWFkZAAHdXNlcl9pZG0AAAARMTE4OTYyMzAzMzAyNTMzMTJkAAl1c2VyX3R5cGVkAARsZWFkbgYAI6KR93oBYgABUYA.luQB7PuIfwFV-6giboh1mKr332S4exM9Z_8_7iP8C8c&remote_ip=52.205.21.197&vsn=2.0.0' failed: Error in connection establishment: net::ERR_INTERNET_DISCONNECTED", source: https://js.driftt.com/core/assets/js/22.0fe27b6c.chunk.js (1)
+[0730/162354.095:INFO:CONSOLE(1)] "DRIFT_WIDGET:: Failed to connect to socket: wss://1063220-20.chat.api.drift.com/ws [object Event]", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162354.095:INFO:CONSOLE(1)] "DRIFT_WIDGET:: socket wss://1063220-20.chat.api.drift.com/ws has closed", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/162354.610:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0730/162354.610:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0801/180722.232:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/180830.532:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 397 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/181111.849:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/181242.085:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 392.1999999284744 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/181306.193:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+=======
+[0729/191420.147:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/192411.969:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/192516.759:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 332.9000000357628 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/192609.928:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/193240.893:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/193344.727:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 328.89999997615814 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/193443.892:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/193635.388:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/193752.669:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 375.89999997615814 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/194203.253:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/194241.902:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/194345.318:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 382.5999999642372 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/194630.823:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/194829.483:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/194831.804:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 437.5 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/194957.967:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/195348.288:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/195653.200:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/195756.754:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 340.10000002384186 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/195827.590:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/200005.225:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/200133.637:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/200350.770:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/200359.335:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 652.9000000357628 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/200521.032:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/200636.505:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/200741.602:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 1708.8999999761581 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/200835.313:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/201458.452:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/201528.205:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/201730.898:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/202012.548:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/202058.548:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/202127.578:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/202230.648:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/202535.350:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/203541.549:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/203626.235:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/203731.654:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/203906.630:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/203938.518:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/204000.833:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/204346.705:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/204450.673:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 349.89999997615814 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/204623.064:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/204816.437:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/204920.335:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 384.39999997615814 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/210307.709:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/210411.550:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/210454.592:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/211452.006:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/211743.600:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/211851.271:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/211921.311:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/211943.188:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/212126.687:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/212259.862:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/212600.643:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/212704.655:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 332.60000002384186 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/213353.196:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/213457.015:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 487.30000001192093 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/213551.715:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/230109.769:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/230230.042:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/230607.677:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/230746.420:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 5572.800000011921 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0729/230806.502:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0729/231158.171:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/231247.464:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/231456.158:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/231634.531:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/232349.419:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/232425.901:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/232846.127:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/233008.327:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0729/233207.282:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/205204.261:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/205307.949:WARNING:spdy_session.cc(3526)] Received HEADERS for invalid stream 5
+[0730/210843.512:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/211612.557:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/211718.875:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/211919.110:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0730/211921.251:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 1310.300000011921 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/213249.394:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/213407.757:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/213508.404:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/221208.505:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/221312.432:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 326.4000000357628 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/221408.407:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0730/221854.641:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/221925.670:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/222115.614:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/222220.192:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 374.60000002384186 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/222314.301:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0730/222614.064:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/223719.310:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/224037.035:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/224225.270:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/224325.138:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/224439.786:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 330 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/225056.328:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/225255.165:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/225332.202:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/225416.383:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/225658.424:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0730/225723.969:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/225756.142:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/230001.836:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/230112.227:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/230153.585:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/230355.267:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/230458.038:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/230517.861:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/230551.183:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/232809.855:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/235541.067:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0730/235644.983:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 348.5999999642372 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0730/235739.890:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0731/002806.712:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/003006.816:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/003058.383:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/003156.844:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/003305.266:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/003456.467:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/003817.932:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/004037.964:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0731/004253.860:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/004356.487:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/004543.800:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/004654.334:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/004749.296:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/004852.966:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/005224.602:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0731/005228.119:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 394.30000001192093 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0731/005609.348:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/005735.141:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/005821.892:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/011133.949:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/011239.388:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/011334.871:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/011450.065:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 337.60000002384186 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0731/011533.740:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0731/192918.476:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/193134.218:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0731/193147.843:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/193312.609:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/193739.481:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/193837.671:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/193936.951:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/194033.223:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/194124.450:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/194156.304:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/194228.095:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/194410.899:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/194606.253:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/194713.713:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204021.585:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204243.088:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204308.458:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204409.278:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204504.405:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204539.791:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204634.854:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/204834.009:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/205244.620:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/205554.514:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/205710.469:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/205803.390:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/205833.231:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/205937.157:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 352.5 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0731/210032.138:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0731/214526.205:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/214643.330:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/214803.409:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/215535.424:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/215810.171:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/215919.872:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/220217.363:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/220614.351:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/221112.910:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/221409.238:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/221459.042:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/222259.142:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/222435.234:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/223549.410:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/223842.983:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/224125.274:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0731/224315.882:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/152208.830:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/153658.430:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/153817.780:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/154634.164:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/154709.427:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/154933.749:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0801/154936.337:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 338.19999998807907 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/155023.569:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/155101.955:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/155252.956:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/155756.924:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/160020.580:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/160102.440:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/160127.489:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/160627.784:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/160738.490:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/163837.793:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/164423.518:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/170410.071:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/170652.730:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/171854.954:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/171951.425:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/172055.679:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 348.10000002384186 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/173858.824:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/174003.047:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 342.89999997615814 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/174057.478:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+<<<<<<< HEAD
+>>>>>>> 896de69f625e8813d1dddf895876e7008b17d39b
+=======
+[0801/175340.014:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/175509.879:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 1121.6000000238419 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/175541.677:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0801/180117.150:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/180315.895:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0801/180535.728:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/180639.785:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 318.10000002384186 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/180734.486:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+<<<<<<< HEAD
+[0801/181932.725:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/182036.610:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 371.39999997615814 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/182047.466:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/182151.186:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 343.5 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+[0801/182246.196:ERROR:gpu_init.cc(440)] Passthrough is not supported, GL is disabled
+[0801/182710.908:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/183833.470:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/183939.140:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/184118.913:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/184206.872:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/184311.011:INFO:CONSOLE(1)] "DRIFT_WIDGET:: widget_core:bootstrap_api finished in 403.7999999523163 ms", source: https://js.driftt.com/core/assets/js/16.053b05ea.chunk.js (1)
+=======
+>>>>>>> 9344389cb3ea93af3c00316db332b58b849fb7de
+>>>>>>> e0d0bd48b499024d36a755165c31153c84c896bb
+[0801/184621.866:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0801/184645.684:INFO:CONSOLE(27)] "PixelYourSite Free version 8.2.5", source: https://luxurylifestyleawards.com/winners/beauty-salon (27)
+[0818/185327.801:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0818/185327.802:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0818/185327.802:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0818/185327.802:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0818/185327.802:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0818/185327.802:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0818/185327.803:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0818/185327.803:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0818/185327.984:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://cdn.ourcodeworld.com/assets/vendor/jquery/jquery-migrate-3.3.2.min.js (2)
+[0818/185330.137:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0818/185330.137:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0818/185330.137:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0818/185330.137:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0818/185330.137:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0818/185330.137:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0818/185330.137:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0818/185330.138:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0818/185400.350:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0818/185400.350:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0818/185400.350:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0818/185400.350:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0818/185400.350:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0818/185400.351:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0818/185400.351:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0818/185400.351:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0818/185401.659:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0818/185401.905:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://cdn.ourcodeworld.com/assets/vendor/jquery/jquery-migrate-3.3.2.min.js (2)
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0818/185500.099:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0818/185500.864:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 127
+[0818/185500.864:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 102 to 125
+[0818/185500.864:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 104 to 124
+[0818/185500.864:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 106 to 123
+[0818/185500.864:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 110 to 122
+[0818/185500.865:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 103 to 121
+[0818/185500.865:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 105 to 120
+[0818/185500.865:WARNING:used_ids.h(55)] Duplicate id found. Reassigning from 111 to 119
+[0818/185501.681:INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 3.3.2", source: https://cdn.ourcodeworld.com/assets/vendor/jquery/jquery-migrate-3.3.2.min.js (2)
+[0818/185644.349:INFO:CONSOLE(11)] "Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'nonce-dwvLx9/vP3EAKuYawHhEx/QufLyTO007jf+X3oLg/7ZiK4Qg' 'self' https://*.paypal.com https://*.paypalobjects.com 'unsafe-inline' 'unsafe-eval'". Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list.
+", source: https://www.paypal.com/webapps/shoppingcart?mid=2848561249251696783116561629302204&flowlogging_id=cb944a07f1ff6 (11)
+[0818/185644.894:INFO:CONSOLE(0)] "Refused to apply style from 'https://www.paypalobjects.com/web/res/2f4/2100b46dd317543760c8af7b70c45/css/styles.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: https://www.paypal.com/webapps/shoppingcart?mid=2848561249251696783116561629302204&flowlogging_id=cb944a07f1ff6 (0)
+[0818/191114.408:INFO:CONSOLE(11)] "Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'nonce-ITxwUopycSqqyJj4eATLoFwsS6oFzyZW+A5mrFuK83SP5CIa' 'self' https://*.paypal.com https://*.paypalobjects.com 'unsafe-inline' 'unsafe-eval'". Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list.
+", source: https://www.paypal.com/webapps/shoppingcart?mid=191761249251696823577311629303074&flowlogging_id=547a56099206 (11)
+[0818/191114.755:INFO:CONSOLE(0)] "Refused to apply style from 'https://www.paypalobjects.com/web/res/2f4/2100b46dd317543760c8af7b70c45/css/styles.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: https://www.paypal.com/webapps/shoppingcart?mid=191761249251696823577311629303074&flowlogging_id=547a56099206 (0)
+[0818/191253.267:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[0818/191824.555:INFO:CONSOLE(11)] "Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'nonce-ryiMzK018NBzem2TbZyjbil6brOBCH3z67z1kYsCYoMMJWqj' 'self' https://*.paypal.com https://*.paypalobjects.com 'unsafe-inline' 'unsafe-eval'". Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list.
+", source: https://www.paypal.com/webapps/shoppingcart?mid=4143661249251696831570261629303504&flowlogging_id=bc59cb9864586 (11)
+[0818/191825.334:INFO:CONSOLE(0)] "Refused to apply style from 'https://www.paypalobjects.com/web/res/2f4/2100b46dd317543760c8af7b70c45/css/styles.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: https://www.paypal.com/webapps/shoppingcart?mid=4143661249251696831570261629303504&flowlogging_id=bc59cb9864586 (0)
+[0818/192020.591:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[0818/192200.425:INFO:CONSOLE(11)] "Refused to execute inline script because it violates the following Content Security Policy directive: "script-src 'nonce-Rk/KQgFe0DFjMh6IWF3Nzk3w0Nn/OY9/J5CoMqyxI5/F5zk4' 'self' https://*.paypal.com https://*.paypalobjects.com 'unsafe-inline' 'unsafe-eval'". Note that 'unsafe-inline' is ignored if either a hash or nonce value is present in the source list.
+", source: https://www.paypal.com/webapps/shoppingcart?mfid=1629303720559_a8eb6a2d1ba62&flowlogging_id=a8eb6a2d1ba62 (11)
+[0818/192200.840:INFO:CONSOLE(0)] "Refused to apply style from 'https://www.paypalobjects.com/web/res/2f4/2100b46dd317543760c8af7b70c45/css/styles.css' because its MIME type ('text/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.", source: https://www.paypal.com/webapps/shoppingcart?mfid=1629303720559_a8eb6a2d1ba62&flowlogging_id=a8eb6a2d1ba62 (0)
+[0819/204846.814:ERROR:gpu_init.cc(441)] Passthrough is not supported, GL is disabled
+[0831/103158.865:ERROR:command_buffer_proxy_impl.cc(126)] ContextResult::kTransientFailure: Failed to send GpuControl.CreateCommandBuffer.

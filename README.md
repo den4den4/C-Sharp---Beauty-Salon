@@ -1,6 +1,6 @@
 # C-Sharp---Beauty-Salon
 Management of Beauty Salon business
-Final Project Program It`s windows desktop application for Administrator
+It`s windows desktop application for Administrator
 Buauty Salon Queue manager.
 
 Report by week, month and year.
